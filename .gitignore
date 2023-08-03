@@ -5,5 +5,5 @@
 *.tar.gz
 *.tar
 *.gz
-data/*
-!data/.gitignore
+src/data/*
+!src/data/.gitignore
