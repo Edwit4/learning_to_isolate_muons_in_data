@@ -7,7 +7,7 @@ Daniel Whiteson
 
 This repository contains the code for the paper ["Learning to Isolate Muons in Data"](https://arxiv.org/abs/2306.15737). In this code, several neural networks are trained and evaluated using Pytorch Lightning, as described in more depth in the paper. As provided, the scripts contain the hyperparameters used to obtain the results shown in the paper.
 
-The dataset corresponding to this code may be found [on Zenodo](https://zenodo.org/record/8211425), and was compiled from the puclically available [DoubleMuParked CMS dataset](https://opendata.cern.ch/record/6030).
+The dataset corresponding to this code may be found [on Zenodo](https://zenodo.org/record/8211425), and was compiled from the puclicly available [DoubleMuParked CMS dataset](https://opendata.cern.ch/record/6030).
 
 ## Organization
 
