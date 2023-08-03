@@ -25,6 +25,8 @@ The dataset corresponding to this code may be found [on Zenodo]().
 
 The following are ordered instructions to run the full set of scripts provided here.
 
+* As written, scripts assume the presence of 4 GPUs. If this is not the case for your machine, each training script contains a `num_gpus` parameter which can be customized to your environment.
+
 1. Download the `data.tar.gz` file from the link above.
 
 2. Extract the contents of the file in the `src/data directory` with `tar -tzf my_tarball.tar.gz`.
