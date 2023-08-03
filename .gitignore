@@ -5,5 +5,7 @@
 *.tar.gz
 *.tar
 *.gz
+*.ipynb
 src/data/*
 !src/data/.gitignore
+!src/Figures.ipynb
