@@ -1,0 +1,9 @@
+*.h5
+*.csv
+*.ckpt
+*.mdb
+*.tar.gz
+*.tar
+*.gz
+data/*
+!data/.gitignore
